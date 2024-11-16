@@ -44,3 +44,11 @@ Hnefatafl es una aplicación de escritorio que emula el clásico juego de mesa n
     <a href="URL_DE_TU_PAGINA" target="_blank">Ver más</a>
   </p>
 
+
+<h3>📊 Proyecto Ingeniería del Software</h3>
+
+  <p align="center">
+    <img src="src/Hnefatafl.png" style="width: 20%; height: auto;">
+    <br>
+    <a href="https://github.com/RedBed24/ISO2-2023-B05.git" target="_blank">Ver más</a>
+  </p>
