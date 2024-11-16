@@ -3,6 +3,7 @@
 <br>
 <h2 align="center">Proyectos 💻</h2>
 <h3>🩸Sistema de Ayuda a la Decisión para el Diagnóstico de Anemia (SADDA)</h3>
+El sistema experto SADDA nace con el propósito de facilitar a los profesionales sanitarios el diagnóstico de anemia. La anemia es un trastorno común que afecta a millones de personas en todo el mundo y puede tener graves implicaciones para la salud si no se diagnostica y trata adecuadamente.
   <p align="center">
     <img src="src/SADDA.png" style="width: 20%; height: auto;">
     <br>
