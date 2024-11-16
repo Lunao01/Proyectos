@@ -14,6 +14,7 @@
 
 
 <h3>❣️ FisioVida </h3>
+FisioVida es una aplicación de escritorio diseñada para gestionar la información de una clínica de fisioterapia. Permite la administración de pacientes, historiales médicos, citas y personal de la clínica, realizando operaciones de altas, bajas, modificaciones y consultas de información.
   <p align="center">
     <img src="src/FisioVida.jpg" style="width: 20%; height: auto;">
     <br>
@@ -23,6 +24,7 @@
   <br>
 
 <h3>🍄 Sistema de Ayuda a la Decisión para la Identificación de Hongos Agaricomycetes (SADIHA)</h3>
+SADIHA es un sistema experto diseñado para facilitar la identificación de hongos Agaricomycetes. Utiliza Prolog como motor de inferencia, donde las reglas y hechos se usan para responder consultas por el usuario.
   <p align="center">
     <img src="src/SADIHA.png" style="width: 20%; height: auto;">
     <br>
@@ -34,6 +36,7 @@
 
 
 <h3>🎮 Hnefatafl, el ajedrez de los vikingos </h3>
+Hnefatafl es una aplicación de escritorio que emula el clásico juego de mesa nórdico en versión digital.
   <p align="center">
     <img src="src/Hnefatafl.png" style="width: 20%; height: auto;">
     <br>
