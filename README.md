@@ -7,7 +7,7 @@ El sistema experto SADDA nace con el propósito de facilitar a los profesionales
   <p align="center">
     <img src="src/SADDA.png" style="width: 20%; height: auto;">
     <br>
-    <a href="URL_DE_TU_PAGINA" target="_blank">Ver más</a>
+    <a href="https://github.com/Lunao01/SADDA_SE.git" target="_blank">Ver más</a>
   </p>
   <br>
   <br>
