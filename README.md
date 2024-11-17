@@ -54,15 +54,6 @@ Repositorio del proyecto de prácticas de ISO2 (curso 23/24). Es una simulación
   </p>
   <br>
   <br>
-
-  <h3>🤖 Proyecto Ingeniería del Software</h3>
-Repositorio del proyecto de prácticas de ISO2 (curso 23/24). Es una simulación de cómo se gestionaría un proyecto en una empresa real. En la wiki encontrarás información completa sobre la estructura del proyecto, los procesos y metodologías aplicadas.
-  <p align="center">
-    <br>
-    <a href="https://github.com/RedBed24/ISO2-2023-B05.git" target="_blank">Ver más</a>
-  </p>
-  <br>
-  <br>
   <br>
   <br>
   <p align = "center">
