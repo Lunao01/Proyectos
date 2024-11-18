@@ -29,7 +29,7 @@ SADIHA es un sistema experto diseñado para facilitar la identificación de hong
   <p align="center">
     <img src="src/SADIHA.png" style="width: 20%; height: auto;">
     <br>
-    <a href="URL_DE_TU_PAGINA" target="_blank">Ver más</a>
+    <a href="URL_DE_TU_PAGINA" target="_blank">https://github.com/Lunao01/SADIHA_Project.git</a>
   </p>
   <br>
   <br>
